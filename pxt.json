@@ -1,0 +1,19 @@
+{
+    "name": "sam-tts",
+    "version": "1.0.0",
+    "description": "SAM Text-to-Speech synthesizer for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
