@@ -15,14 +15,3 @@ Add this extension to your MakeCode Arcade project and use blocks like:
 - `set voice to SAM (default)`
 - `set voice speed pitch throat mouth`
 ```
-
-**`.gitignore`**:
-```
-built
-node_modules
-yotta_modules
-yotta_targets
-pxt_modules
-*.db
-*.tgz
-.header.json
