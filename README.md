@@ -14,4 +14,3 @@ Add this extension to your MakeCode Arcade project and use blocks like:
 - `speak "hello"`
 - `set voice to SAM (default)`
 - `set voice speed pitch throat mouth`
-```
